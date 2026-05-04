@@ -1,0 +1,32 @@
+[
+  {
+    "name": "StickerCard2.0",
+    "title": "StickerCard 2.0",
+    "summary": "A browser-based tool that resizes any uploaded image to fit perfectly on a credit card — designed for custom sticker printing. Features a clean UI with live preview.",
+    "tags": ["JavaScript", "HTML", "CSS", "UI/UX"]
+  },
+  {
+    "name": "Histree",
+    "title": "Histree",
+    "summary": "An interactive web app that lets users explore and learn history through films and TV shows, connecting historical events to pop culture in an engaging visual interface.",
+    "tags": ["JavaScript", "HTML", "CSS", "History"]
+  },
+  {
+    "name": "A24Colour",
+    "title": "A24-Style Photo Converter",
+    "summary": "A Python tool that applies A24 film studio colour grading and visual aesthetics to photographs using image processing and machine learning techniques.",
+    "tags": ["Python", "ML", "PIL", "Computer Vision"]
+  },
+  {
+    "name": "GameWalking",
+    "title": "Real-World Step Converter",
+    "summary": "Bridges the physical and digital: reads step data from a fitness tracker and translates real-world steps into in-game character movement in real time.",
+    "tags": ["Python", "IoT", "Gaming"]
+  },
+  {
+    "name": "Movie-Recommendation-System-Mark-1",
+    "title": "Movie Recommendation System",
+    "summary": "A system that recommends movies based on user preferences using machine learning algorithms.",
+    "tags": ["Python", "ML", "Recommender Systems"]
+  }
+]
